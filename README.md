@@ -1,32 +1,27 @@
-## Welcome to GitHub Pages
+## 아트캘린더
 
-You can use the [editor on GitHub](https://github.com/hatiiii/hatiiii.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 전시
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 9월
 
-- Bulleted
-- List
+1. 고산동산 그룹전 <그런재질>
+- 기간: 2020.09.17 (목) ~ 09.28(월) 
+- 시간: 11:00 ~ 18:00
+- 장소: 새탕라움(제주시 서사로 5길 15-2
+- 작가: Noel Roh, 임현규, 현유정
+[seetangraum](https://www.instagram.com/p/CFMcZxXDvvB/?igshid=1xjywf3xxtw7n)
 
-1. Numbered
-2. List
+2. 해요·아랑 작가의 2인전 <고립의 심연>
+- 기간: 2020.09.17 (목) ~ 09.28(월) / 일요일 휴관
+- 시간: 10:00 ~ 17:00 
+- 장소: 스튜디오126 (제주시 용담로 126 2F)
+- 작가: 해요, 아랑
+- 기획: 추수희
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
