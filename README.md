@@ -23,4 +23,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 행사
 
 1. [미술주간 2020](http://artweek.kr/2020/main/about.php) 
-- 2020.09.24 ~ 10.11
+2. [세계유산축전:제주- 아트 프로젝트](http://worldheritage.kr/program/program.asp?pagecode=A&fk_idx=7&search_idx=7)
